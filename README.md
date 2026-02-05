@@ -1,6 +1,6 @@
 # Hey, eu sou Igor
 
-🎓 Estudante de **Sistemas de Informação - Unifacs** (1º semestre)     
+🎓 Estudante de **Sistemas de Informação - Unifacs** (2º semestre)     
 💻 Apaixonado por **Java, IA, Data Science e Desenvolvimento de Software**
 
 ---
